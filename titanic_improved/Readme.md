@@ -1,4 +1,4 @@
-#Neural Net application for Titanic Survivor prediction
+## Neural Net application for Titanic Survivor prediction
 
 Download and run the neuon.ipynb file in jupyter notebook
 I have tried to keep steps simple and properly commented
